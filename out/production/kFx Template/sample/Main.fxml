@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+
+<VBox xmlns="http://javafx.com/javafx/8.0.201"
+		xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.Controller"
+		alignment="CENTER" prefHeight="480.0" prefWidth="640.0" spacing="10.0">
+	<Text text="More for me"/>
+	<Button text="Ha Ha" onAction="#lol"/>
+</VBox>
